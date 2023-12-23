@@ -1,0 +1,7 @@
+myfab11 scorecard api:
+
+https://dev.myfab11.in/team-players/scorecard/111689
+
+
+https://api.cricpick.in/team-players/scorecard/111689.json
+
